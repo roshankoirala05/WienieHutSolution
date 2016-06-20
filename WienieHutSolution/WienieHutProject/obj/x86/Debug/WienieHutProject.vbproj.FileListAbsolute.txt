@@ -1,0 +1,11 @@
+D:\1. Roshan2\Computer Science\WienieHutSolution\WienieHutProject\bin\Debug\WienieHutProject.exe
+D:\1. Roshan2\Computer Science\WienieHutSolution\WienieHutProject\bin\Debug\WienieHutProject.pdb
+D:\1. Roshan2\Computer Science\WienieHutSolution\WienieHutProject\bin\Debug\WienieHutProject.xml
+D:\1. Roshan2\Computer Science\WienieHutSolution\WienieHutProject\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1. Roshan2\Computer Science\WienieHutSolution\WienieHutProject\obj\x86\Debug\Wienie_Hut.nchilllabel.resources
+D:\1. Roshan2\Computer Science\WienieHutSolution\WienieHutProject\obj\x86\Debug\Wienie_Hut.Resources.resources
+D:\1. Roshan2\Computer Science\WienieHutSolution\WienieHutProject\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\1. Roshan2\Computer Science\WienieHutSolution\WienieHutProject\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\1. Roshan2\Computer Science\WienieHutSolution\WienieHutProject\obj\x86\Debug\WienieHutProject.exe
+D:\1. Roshan2\Computer Science\WienieHutSolution\WienieHutProject\obj\x86\Debug\WienieHutProject.xml
+D:\1. Roshan2\Computer Science\WienieHutSolution\WienieHutProject\obj\x86\Debug\WienieHutProject.pdb

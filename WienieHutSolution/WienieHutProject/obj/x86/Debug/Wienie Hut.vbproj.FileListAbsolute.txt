@@ -1,0 +1,11 @@
+C:\Users\Roshan\AppData\Local\Temporary Projects\Wienie Hut\bin\Debug\Wienie Hut.exe
+C:\Users\Roshan\AppData\Local\Temporary Projects\Wienie Hut\bin\Debug\Wienie Hut.pdb
+C:\Users\Roshan\AppData\Local\Temporary Projects\Wienie Hut\bin\Debug\Wienie Hut.xml
+C:\Users\Roshan\AppData\Local\Temporary Projects\Wienie Hut\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Roshan\AppData\Local\Temporary Projects\Wienie Hut\obj\x86\Debug\Wienie_Hut.nchilllabel.resources
+C:\Users\Roshan\AppData\Local\Temporary Projects\Wienie Hut\obj\x86\Debug\Wienie_Hut.Resources.resources
+C:\Users\Roshan\AppData\Local\Temporary Projects\Wienie Hut\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Roshan\AppData\Local\Temporary Projects\Wienie Hut\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Roshan\AppData\Local\Temporary Projects\Wienie Hut\obj\x86\Debug\Wienie Hut.exe
+C:\Users\Roshan\AppData\Local\Temporary Projects\Wienie Hut\obj\x86\Debug\Wienie Hut.xml
+C:\Users\Roshan\AppData\Local\Temporary Projects\Wienie Hut\obj\x86\Debug\Wienie Hut.pdb
